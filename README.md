@@ -1,4 +1,4 @@
-# Race Performance Analysis 🏃‍♂️🏃‍♀️
+# Race Performance Insights 🏃‍♂️🏃‍♀️
 
 This project involves analyzing a dataset of races spanning two centuries, focusing on the 50km and 50mi races in USA in the year 2020. The analysis includes athlete performance, speed, age, gender, and race season trends.
 
