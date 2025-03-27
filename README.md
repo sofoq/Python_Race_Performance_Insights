@@ -38,6 +38,3 @@ This project involves analyzing a dataset of races spanning two centuries, focus
 
 
 
-**Sofo Qaadze**
-  - 📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)
-  - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
