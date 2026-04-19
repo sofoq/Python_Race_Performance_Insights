@@ -4,34 +4,34 @@ This project involves analyzing a dataset of races spanning two centuries, focus
 
 ## 🧮 Key Steps in the Analysis 
 
-### 📂 Data Loading and Exploration 
+###  Data Loading and Exploration 
 - The dataset `TWO_CENTURIES_OF_UM_RACES.csv` is loaded and the first 10 rows are examined.
 - Data types and shape are checked to understand the structure of the data.
 
-### 🧹 Data Cleaning 
+###  Data Cleaning 
 - The data is filtered for **USA athletes** competing in **50km and 50mi** races in **2020**.
 - Columns such as `Athlete club`, `Athlete country`, `Athlete year of birth`, and `Athlete age category` are dropped.
 - Missing values and duplicates are removed, and data types are fixed where necessary (e.g., converting age to integer, average speed to float).
 
-### 🔧 Feature Engineering 
+###  Feature Engineering 
 - **Athlete Age** is calculated by subtracting the athlete's year of birth from the event year.
 - **Athlete Performance Time** is cleaned to keep only the numeric part of the time.
 - Column names are renamed for better clarity (e.g., `Event name` to `race_name`).
 - New features such as `race_month` and `race_season` are derived from the `race_day`.
 
-### 📊 Data Analysis 
+###  Data Analysis 
 - Visualizations are created using `seaborn` and `matplotlib` to explore different aspects of the data:
   - Distribution of race lengths and gender-based analysis.
   - Comparison of average speed for **50km vs. 50mi** races by gender.
   - Age group performance for the **50mi** race.
   - Speed comparison across different seasons (Winter, Spring, Summer, Fall).
 
-### 🎨 Visualizations 
+###  Visualizations 
 - **Histograms** for race length distribution and average speed by gender.
 - **Violin Plot** comparing speed by gender for different race lengths.
 - **Line Chart** comparing mean average speed across seasons.
 
-## 📚 Libraries Used 
+##  Libraries Used 
 - `pandas` for data manipulation.
 - `seaborn` for data visualization.
 - `matplotlib` for creating line charts.
