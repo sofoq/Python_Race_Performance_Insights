@@ -4,7 +4,7 @@ This project involves analyzing a dataset of races spanning two centuries, focus
 
 ## 📑 Code
 
-- [ Race Performance Insights](https://github.com/sofoq/SQL_Customer_and_Product_Insights/blob/main/CUSTOMERS%20REPORT/Customer%20Insights.sql)
+- [ Race Performance Insights](https://github.com/sofoq/Python_Race_Performance_Insights/blob/main/Race_Performance_Insights.ipynb)
 
 ## 🧮 Key Steps in the Analysis 
 
