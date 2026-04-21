@@ -1,8 +1,8 @@
-# Race Performance Insights 🏃‍♂️🏃‍♀️
+# Race Performance Insights 🏃‍♂️
 
 This project involves analyzing a dataset of races spanning two centuries, focusing on the 50km and 50mi races in USA in the year 2020. The analysis includes athlete performance, speed, age, gender, and race season trends.
 
-## 📑 Code
+##  Code
 
 - [ Race Performance Insights](https://github.com/sofoq/Python_Race_Performance_Insights/blob/main/Race_Performance_Insights.ipynb)
 
