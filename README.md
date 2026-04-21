@@ -2,6 +2,10 @@
 
 This project involves analyzing a dataset of races spanning two centuries, focusing on the 50km and 50mi races in USA in the year 2020. The analysis includes athlete performance, speed, age, gender, and race season trends.
 
+## 📑 Code
+
+- [ Race Performance Insights](https://github.com/sofoq/SQL_Customer_and_Product_Insights/blob/main/CUSTOMERS%20REPORT/Customer%20Insights.sql)
+
 ## 🧮 Key Steps in the Analysis 
 
 ###  Data Loading and Exploration 
